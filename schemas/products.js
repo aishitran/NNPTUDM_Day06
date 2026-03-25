@@ -32,4 +32,4 @@ let productSchema = mongoose.Schema({
 }, {
     timestamps: true
 })
-module.exports = new mongoose.model('Product', productSchema)
+module.exports = new mongoose.model('product', productSchema)
