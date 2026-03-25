@@ -1,3 +1,2 @@
-# NNPTUDM_Day06
-# Trần Nguyễn Ái Nhi
-# 2280602236
+# NNPTUDM_Day07
+# Trần Nguyễn Ái Nhi - 2280602236
